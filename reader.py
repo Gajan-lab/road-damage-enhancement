@@ -3,7 +3,7 @@ import os
 
 def read_images():
 
-    folder_path = "frames"
+    folder_path = "frames" #please if the file not loaded correctly add frames folder path which is inculded with this file
 
     images = []
 
